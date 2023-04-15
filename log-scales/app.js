@@ -5,6 +5,8 @@ async function draw() {
   const sizeAccessor = (d) => d.size
   const nameAccessor = (d) => d.name
 
+
+
   // Dimensions
   let dimensions = {
     width: 200,
